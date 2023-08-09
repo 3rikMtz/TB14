@@ -1,0 +1,12 @@
+[
+  {
+    "content": "I totally agree!",
+    "user_id": 1,
+    "post_id": 1
+  },
+  {
+    "content": "Programming can be really challenging too!",
+    "user_id": 2,
+    "post_id": 2
+  }
+]

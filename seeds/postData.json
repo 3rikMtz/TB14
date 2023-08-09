@@ -1,0 +1,12 @@
+[
+  {
+    "post_title": "Learning JavaScript",
+    "post_content": "I'm enjoying the process of learning JavaScript!",
+    "user_id": "1"
+  },
+  {
+    "post_title": "Asynchronous JavaScript",
+    "post_content": "Async operations can be quite tricky to handle.",
+    "user_id": "2"
+  }
+]
